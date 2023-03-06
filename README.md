@@ -2,8 +2,8 @@
 1. Used Vanilla Javascript only to built the app
 2. Chuck Norris api fteched using Js fetch method to create the text
 3. Use Random method to generate Jokes randomly from the api
-4. Created additional div elements using Js to create the score board
-5. Changes occured while start and submit the values.
+4. Date method used to calculate the speed of type to get the counts from the user
+5. Created additional div elements using Js to create the score board
 
 Rules,
 1. Click the Start button to start the App
