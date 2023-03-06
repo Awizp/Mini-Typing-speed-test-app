@@ -3,5 +3,5 @@
 2. Chuck Norris api fteched using Js fetch method to create the text
 3. Created additional div elements using Js to create the score board
 
-#Visit the web app
+# Visit the web app
 https://awizp.github.io/Mini-Typing-speed-test-app/
